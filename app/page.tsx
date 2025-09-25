@@ -39,6 +39,12 @@ export default function HomePage() {
             Personalized learning solutions in math, science, English, coding, French, and more. Help your child excel
             academically with our experienced tutors.
           </p>
+          <p className="text-lg text-primary-foreground/70 mb-8 max-w-3xl mx-auto text-pretty">
+            At our tutoring center, we offer comprehensive educational support for students from kindergarten to grade
+            12. Our expert tutors specialize in math, English, science, coding, and homework assistance, ensuring
+            personalized learning experiences that empower students to achieve their academic goals and build
+            confidence.
+          </p>
         </div>
       </section>
 
@@ -238,6 +244,12 @@ export default function HomePage() {
               <p className="text-lg text-primary-foreground/80 mb-8 text-pretty">
                 We believe every student has the potential to excel. Our personalized approach, experienced tutors, and
                 proven methods help students build confidence and achieve academic success.
+              </p>
+
+              <p className="text-lg text-primary-foreground/80 mb-8 text-pretty">
+                At our tutoring center, we assess each student's unique needs and learning style. Our experienced tutors
+                create personalized lesson plans, utilizing interactive methods to engage students. We offer flexible
+                scheduling and consistent progress tracking to ensure effective learning outcomes.
               </p>
 
               <div className="space-y-6">
