@@ -53,16 +53,16 @@ export default function HomePage() {
         <div className="container mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
             <div>
+              <div className="text-4xl font-bold text-accent mb-2">2006</div>
+              <div className="text-primary-foreground/80">Tutoring Since</div>
+            </div>
+            <div>
               <div className="text-4xl font-bold text-accent mb-2">500+</div>
               <div className="text-primary-foreground/80">Students Helped</div>
             </div>
             <div>
               <div className="text-4xl font-bold text-accent mb-2">98%</div>
               <div className="text-primary-foreground/80">Grade Improvement</div>
-            </div>
-            <div>
-              <div className="text-4xl font-bold text-accent mb-2">15+</div>
-              <div className="text-primary-foreground/80">Expert Tutors</div>
             </div>
           </div>
         </div>
